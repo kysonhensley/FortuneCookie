@@ -1,4 +1,10 @@
-﻿namespace FortuneCookie
+﻿//Kyson Hensley
+//RCET2265
+//Fall 2025
+//Fortune Cookie Program
+//https://github.com/kysonhensley/FortuneCookie.git
+
+namespace FortuneCookie
 {
     internal class Program
     {
